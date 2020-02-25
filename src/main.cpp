@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <wifi.h>
 #include <dummy.h>
-const char* ssid = "ZIEICD";
-const char* password = "1999200120132016";
+const char* ssid = "";
+const char* password = "";
 const uint16_t port = 4444;
 const char* host = "192.168.1.54";
 
